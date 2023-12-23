@@ -1,0 +1,18 @@
+﻿body
+{
+background-image:url("inv.jpg");
+background-size:cover;
+background-repeat:no-repeat;
+
+
+}
+.auto-style8 {
+    font-size: large;
+    font-family:cursive;
+ 
+}
+h1{
+    color:red ;
+    font-family:cursive;
+    
+  }
